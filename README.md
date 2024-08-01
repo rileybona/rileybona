@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Riley 
+- 🔭 I’m currently working on Adding Features to 'pebble' / creating production ready site 
+- 🌱 I’m currently learning LinkedIn lol 
+- 📫 How to reach me: rileybona7@gmail.com
+- 😄 Pronouns: he/him 
+
 
 <!--
 **rileybona/rileybona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
