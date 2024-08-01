@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Riley 
 - 🔭 I’m currently working on Adding Features to 'pebble' / creating production ready site 
-- 🌱 I’m currently learning LinkedIn lol 
+- 🌱 I’m currently learning LinkedIn
 - 📫 How to reach me: rileybona7@gmail.com
 - 😄 Pronouns: he/him 
 
